@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Телефонная книга</h1>
+        <h1>ТЕЛЕФОННАЯ КНИГА</h1>
         <AddNameContact />
         <h2>Мои контакты: </h2>
         <Filter />
